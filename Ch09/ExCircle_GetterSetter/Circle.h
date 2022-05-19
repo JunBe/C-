@@ -1,5 +1,5 @@
-#ifndef CIRCLE_H //CIRCLE_H°¡ Á¤ÀÇµÇ¾îÀÖÁö ¾ÊÀ¸¸é
-#define CIRCLE_H //CIRCLE_H¸¦ Á¤ÀÇÇÏ¶ó.
+#ifndef CIRCLE_H //CIRCLE_Hê°€ ì •ì˜ë˜ì–´ìˆì§€ ì•Šìœ¼ë©´
+#define CIRCLE_H //CIRCLE_Hë¥¼ ì •ì˜í•˜ë¼.
 class Circle {
 public:
 	
