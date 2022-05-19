@@ -1,5 +1,5 @@
-#include <iostream> //cout½á¼­ ½áÁà¾ßÇÔ
-#include "Circle.h" //Á÷Á¢ ÀÛ¼ºÇÑ Çì´õÆÄÀÏÀº ""
+#include <iostream> //coutì¨ì„œ ì¨ì¤˜ì•¼í•¨
+#include "Circle.h" //ì§ì ‘ ì‘ì„±í•œ í—¤ë”íŒŒì¼ì€ ""
 using namespace std; 
 //class Circle implementation
 Circle::Circle() {	//Constructor without arg
