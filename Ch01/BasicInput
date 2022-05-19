@@ -9,7 +9,7 @@ int main() {
 	int h;
 	cin >> h;
 	int area = w * h;
-	cout << "¸éÀûÀº: " << area << " ÀÔ´Ï´Ù." << endl;
+	cout << "Â¸Ã©Ã€Ã»Ã€Âº: " << area << " Ã€Ã”Â´ÃÂ´Ã™." << endl;
 
 	return 0;
 }
