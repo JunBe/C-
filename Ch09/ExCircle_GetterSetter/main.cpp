@@ -11,6 +11,6 @@ int main() {
 	//cout << c1.radius;
 	c1.setRadius(40);
 	cout << c1.getRadius() << endl;
-	//c1.radius = 50; private ¶§¹®¿¡ »ç¿ëÇÒ ¼ö ¾øÀ½
+	//c1.radius = 50; private Å›Â§Å¡Å½Å¼Ä„ Å¥Ã§Å¼Ã«Ã‡Å‡ ÅºÃ¶ Å¾Å™Å”Ë
 	return 0;
 }
